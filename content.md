@@ -1,8 +1,9 @@
 ### Izveidot number guessing spēli ar Pyton programmēšanas valodu
 
-### Saturs
+### Dokumenta saturs
 
-### 1.Apraksts
+### 1.Spēles apraksts
+Jautra, interesanta spēle, kas attīsta loģiku.
 ### 2.Spēles loģika
 
 Dators uzmin vienu skaitli no 1 līdz 100. Talāk piedāvā spēlētāja uzminēt to skaitli utt
@@ -47,4 +48,3 @@ while repeat:
         print("Paldies par spēli! Bye, bye! ")
 ```
 
-### 3.Utt
