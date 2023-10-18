@@ -9,6 +9,7 @@ Dators uzmin vienu skaitli no 1 līdz 100. Talāk piedāvā spēlētāja uzminē
 
 Spēles loģika ir labi aprakstīta šajā kodā:
 
+```py
 import random
 
 repeat = True
@@ -44,6 +45,6 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli! Bye, bye! ")
-
+```
 
 ### 3.Utt
